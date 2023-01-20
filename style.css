@@ -35,6 +35,12 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background-color: white;
+  color: #8b5cf6;
+  transition: ease 500ms;
+}
+
 #form-habits {
   display: flex;
   padding: 182px 48px 48px;
